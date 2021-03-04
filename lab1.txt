@@ -18,3 +18,5 @@ My first remote repository
 Результат: відправте посилання на створений репозиторій.
 
 Автор: NUWM
+
+https://github.com/HAXPiH/Exam
